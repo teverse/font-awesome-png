@@ -1,2 +1,3 @@
-# font-awesome-png
-Font Awesome icons, in PNG format, in a variety of sizes.
+# Font Awesome
+Used Font Awesome v5.7.2
+https://github.com/FortAwesome/Font-Awesome
